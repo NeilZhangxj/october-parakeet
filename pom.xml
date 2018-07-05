@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>neil_squad</groupId>
-	<artifactId>october</artifactId>
+	<artifactId>october-parakeet</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>october</name>
+	<name>october-parakeet</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
